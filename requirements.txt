@@ -1,0 +1,8 @@
+openai
+anthropic
+pinecone
+supabase
+notion-client
+python-dotenv
+requests
+pandas
